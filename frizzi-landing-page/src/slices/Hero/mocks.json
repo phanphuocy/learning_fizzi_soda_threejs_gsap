@@ -1,0 +1,101 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Touch"
+						}
+					}
+				]
+			},
+			"subheading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Enim est eu laboris deserunt in incididunt nulla qui sunt esse pariatur veniam consectetur. Ipsum nisi qui enim qui exercitation officia. Voluptate eiusmod veniam aliquip cupidatat in id veniam adipisicing cupidatat tempor nisi enim minim."
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "In cillum proident sit mollit exercitation consequat amet in sit enim ad est voluptate officia. Consectetur culpa incididunt ex eu eu deserunt nisi cillum."
+						}
+					}
+				]
+			},
+			"button_text": {
+				"__TYPE__": "FieldContent",
+				"value": "relationship",
+				"type": "Text"
+			},
+			"button_link": {
+				"key": "87b5cc4b-3a18-4942-879c-d807562907fc",
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "https://slicemachine.dev",
+					"text": "stared"
+				}
+			},
+			"cans_image": {
+				"origin": {
+					"id": "main",
+					"url": "https://images.unsplash.com/photo-1607582278038-6bebbd4d7b72",
+					"width": 4010,
+					"height": 4010
+				},
+				"url": "https://images.unsplash.com/photo-1607582278038-6bebbd4d7b72",
+				"width": 4010,
+				"height": 4010,
+				"edit": {
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					},
+					"background": "transparent"
+				},
+				"alt": "percent",
+				"credits": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			},
+			"second_heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Everything"
+						}
+					}
+				]
+			},
+			"second_body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Do anim mollit cillum incididunt anim cupidatat excepteur pariatur mollit aliqua ex officia sint excepteur. Magna sit ullamco officia et exercitation consequat adipisicing est reprehenderit cupidatat non ullamco. Qui dolor voluptate excepteur laborum consectetur reprehenderit et."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
